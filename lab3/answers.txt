@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Using the reversed list, it is possible to notice the long time taken by the algorithm to sort the list.
+
+sort2 uses: Merge Sort
+
+How do you know?: Using any given text files, it is noticeable the difference of time to execute if we compare it to the
+other algorithms, making it the fastest one, and therefore, it is Merge Sort.
+
+sort3 uses: Selection Sort
+
+How do you know?: The algorithm takes a lot of time to run, even using already sorted lists. It is known that selection sort
+goes through all the array compairing each index at a time with all the rest of it.
